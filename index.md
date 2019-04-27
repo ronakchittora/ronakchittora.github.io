@@ -4,7 +4,7 @@ layout: default
 
 
 
-
+<br><br>
 
 ## About Me
 * * *
@@ -13,12 +13,12 @@ layout: default
 When something is important enough, you do it even if the odds are not in your favor.
 
 
-#### Skills
+### Skills
 * * *
-| **head1**        | _head two_          |
-| **ok**           | ~~good swedish fish~~ |
 
-* * *
+| **head1**        | head two          |
+| **ok**           | good swedish fish |
+
 
 ```
 Footer
