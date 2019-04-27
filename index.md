@@ -16,6 +16,14 @@
 * * *
 
 
-```
-Contact: Ping me on LinkedIn
-```
+<br>
+<br>
+
+<dl>
+<dt>Contact</dt>
+<dd>Connect on LinkedIn and Message</dd>
+</dl>
+
+<br>
+
+* * *
