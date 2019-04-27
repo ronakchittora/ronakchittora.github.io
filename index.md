@@ -2,12 +2,10 @@
 layout: default
 ---
 
-There should be whitespace between paragraphs.
-
-## Header 2
+## About Me
 
 > This is a blockquote following a header.
->
+
 When something is important enough, you do it even if the odds are not in your favor.
 
 
@@ -15,7 +13,7 @@ When something is important enough, you do it even if the odds are not in your f
 
 | head1        | head two          |
 | ok           | good swedish fish |
-|:-------------
+|:-------------|                   |
 
 * * *
 **bold**, _italic_, or ~~strikethrough~~.
