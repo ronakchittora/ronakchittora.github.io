@@ -13,6 +13,7 @@
 
 <br>
 ### Projects
-* * *
 *  _project 1_
 *  _project 2_
+
+* * *
