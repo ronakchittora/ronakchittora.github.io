@@ -1,26 +1,21 @@
 
 <br><br>
 
-## About Me
+### Hey There!
+#### Welcome to my Github homepage!
+> I have 3 years of experience working with clients in education, manufacturing, IoT and analytics industry. My expertise is in Data Integration, Data Quality, Data Visualization and Machine Learning and I have helped some the globally largest firms build their data warehouse, improve data quality processes and implmenting reliable and middleware.
+<br>
+> I am enthusiastic about solving some of the most pressing problems of society by leveraging Machine learning and AI. Connect with me if you want to collaborate on any such projects.
+<br>
+> I am still (or consider myself) a Data Science beginner and intends to keep this page updated with my new adventures on Kaggle!
+
+> View my resume or LinkedIn profile to know me more
+
+<br>
+### Projects
 * * *
-> This is a blockquote following a header.
 
-When something is important enough, you do it even if the odds are not in your favor.
-
-
-### Skills
-* * *
-
-| **head1**        | head two          |
-| **ok**           | good swedish fish |
-
-<dl>
-<dt>Lives in</dt>
-<dd>Mumbai, IN</dd>
-<dt>Age</dt>
-<dd>24 | Male </dd>
-</dl>
 
 ```
-Footer
+Contact: Ping me on LinkedIn
 ```
