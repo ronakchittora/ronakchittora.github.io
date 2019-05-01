@@ -15,5 +15,3 @@
 <br>
 ### Projects
 *  _coming soon_
-
-* * *
