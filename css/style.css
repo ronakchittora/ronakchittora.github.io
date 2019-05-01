@@ -74,6 +74,14 @@ ol {
 	line-height: normal;
 }
 
+.section-title_skills h2 {
+	display: inline-block;
+	position: relative;
+	#margin-bottom: 20px;
+	padding-bottom: 2px;
+	line-height: normal;
+}
+
 .section-title h2:after {
 	position: absolute;
 	content: '';
