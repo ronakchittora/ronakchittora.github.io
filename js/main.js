@@ -79,7 +79,7 @@ if($().circleProgress){
 		size: 175,
 		thickness: 3,
 		fill: "#40424a",
-		emptyFill: "rgba(0, 0, 0, 0)"
+		emptyFill: "#F5F5F5"
 	});
 	//Set progress circle 2
 	$("#progress2").circleProgress({
@@ -87,7 +87,7 @@ if($().circleProgress){
 		size: 175,
 		thickness: 3,
 		fill: "#40424a",
-		emptyFill: "rgba(0, 0, 0, 0)"
+		emptyFill: "#F5F5F5"
 	});
 
 	//Set progress circle white
@@ -96,7 +96,7 @@ if($().circleProgress){
 		size: 175,
 		thickness: 3,
 		fill: "#40424a",
-		emptyFill: "rgba(0, 0, 0, 0)"
+		emptyFill: "#F5F5F5"
 	});
 
 	//Set progress circle white
@@ -105,7 +105,7 @@ if($().circleProgress){
 		size: 175,
 		thickness: 3,
 		fill: "#40424a",
-		emptyFill: "rgba(0, 0, 0, 0)"
+		emptyFill: "#F5F5F5"
 	});
 
 	//Set progress circle skyblue
