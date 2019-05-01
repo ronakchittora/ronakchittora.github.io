@@ -219,11 +219,13 @@ ol {
 	display: table;
 	width: 100%;
 	#background: #40424a;
-	padding-left: 100px;
+	padding-left: 110px;
 }
 
-.fact-box.trans {
+.fact-box .trans {
 	background-color: transparent;
+	margin-left: -80px;
+	margin-top: -20px;
 }
 
 .fact-box .fact-content {
