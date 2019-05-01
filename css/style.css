@@ -169,7 +169,7 @@ ol {
 
 .circle-progress {
 	text-align: center;
-	padding-top: 30px;
+	padding-top: 100px;
 	display: inline-block;
 }
 
@@ -218,7 +218,8 @@ ol {
 	#height: 35px;
 	display: table;
 	width: 100%;
-	background: #40424a;
+	#background: #40424a;
+	padding-left: 100px;
 }
 
 .fact-box.trans {
@@ -426,11 +427,17 @@ ol {
 /*---------------------
 	Resume section
 ----------------------*/
+.resume-section {
+	#background: #f2f7f8;
+	#margin-left: 60px;
+	padding-left: 100px;
+}
+/*
 .resume-section.with-bg {
 	#background-image: url(../img/resume-bg.jpg);
 	#background-repeat: no-repeat;
 	#background-size: cover;
-}
+}*/
 
 .resume-list {
 	list-style: none;
