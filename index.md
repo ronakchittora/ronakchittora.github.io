@@ -1,17 +1,176 @@
+<!DOCTYPE html>
+<html class="no-mobile no-touch"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <title>Ronak Chittora</title>
+        <meta name="description" content="">
+        <meta name="keywords" content="">
+        <meta charset="utf-8">
 
-<br><br>
+        <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+        
 
+        <!-- CSS -->
+        <link rel="stylesheet" href="lander_page/bootstrap.css">
+        <link rel="stylesheet" href="lander_page/style.css">
+        <link rel="stylesheet" href="lander_page/style-responsive.css">
+        <link rel="stylesheet" href="lander_page/animate.css">
+        <link rel="stylesheet" href="lander_page/vertical-rhythm.css">
+        <link rel="stylesheet" href="lander_page/owl.css">
+        <link rel="stylesheet" href="lander_page/magnific-popup.css">        
+        
+    <style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
+    <body class="appear-animate">
+        
+        <!-- Page Loader --> 
 
-### Hey There!
-#### Welcome to my Github homepage!
-I have 3 years of experience working with clients in education, manufacturing, IoT and analytics industry. My expertise is in Data Integration, Data Quality, Data Visualization and Machine Learning and I have helped some the globally largest firms build their data warehouse, improve data quality processes and implementing reliable and efficient middle-ware.
+		<!--
+        <div class="page-loader" style="display: none;">
+            <div class="loader" style="display: none;">Loading...</div>
+        </div>
+		-->
+        <!-- End Page Loader -->
+        
+        <!-- Page Wrap -->
+        <div class="page" id="top">
+            
+            <!-- Home Section -->
+            <section class="home-section bg-dark-alfa-30 parallax-2" data-background="images/full-width-images/section-bg-1.jpg" id="home" style="background-image: url(&quot;images/full-width-images/section-bg-1.jpg&quot;); background-position: 50% 0px;">
+                <div class="js-height-full container" style="height: 632px;">
+                    
+                    <!-- Hero Content -->
+                    <div class="home-content">
+                        <div class="home-text">
+                            
+                            <h1 class="hs-line-1 font-alt mb-80 mb-xs-30 mt-70 mt-sm-0">
+                                Ronak Chittora
+                            </h1>
+                            
+                            <div class="hs-line-6">
+                                Just Awesome!
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <!-- End Hero Content -->
+                    
+                    <!-- Scroll Down -->
+                    <div class="local-scroll">
+                        <a href="#about" class="scroll-down"><i class="fa fa-angle-down scroll-down-icon"></i></a>
+                    </div>
+                    <!-- End Scroll Down -->
+                    
+                </div>
+            </section>
+			<hr>
+            <!-- End Home Section -->
+            
+			
+			<!--
+			
+            <!-- Navigation panel
+			
+            <nav class="main-nav dark transparent stick-fixed js-transparent">
+                <div class="full-wrapper relative clearfix">
+                    
+					<!-- Logo ( * your text or image into link tag *) -->
+                    
+					<!--
+					
+					<div class="nav-logo-wrap local-scroll">
+                        <a href="#top" class="logo">
+                            <img src="lander_page/logo-white.png" alt="">
+                        </a>
+                    </div>
+                    <div class="mobile-nav" style="height: 75px; line-height: 75px; width: 75px;">
+                        <i class="fa fa-bars"></i>
+                    </div>
+                    
+					<!-- Main Menu 
+                    
+					<div class="inner-nav desktop-nav">
+                        <ul class="clearlist scroll-nav local-scroll">
+                            <li class="active"><a href="#home" style="height: 75px; line-height: 75px;" class="active">Home</a></li>
+                            <li><a href="#about" style="height: 75px; line-height: 75px;">About</a></li>
+                            <li><a href="#services" style="height: 75px; line-height: 75px;">Services</a></li>
+                            <li><a href="#portfolio" style="height: 75px; line-height: 75px;">Portfolio</a></li>
+                            <li><a href="#news" style="height: 75px; line-height: 75px;">News</a></li>
+                            <li><a href="#contact" style="height: 75px; line-height: 75px;">Contacts</a></li>
+                            
+                            <li><a href="http://rhythm.bestlooker.pro/intro.html" style="height: 75px; line-height: 75px;">All Demos</a></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <!-- End Navigation panel 
+			
+			-->
+            
 
-I am enthusiastic about solving some of the most pressing problems of society by leveraging Machine learning and AI. Connect with me if you want to collaborate on any such projects.
+            <!-- About Section -->
+            <section class="page-section" id="about">
+                <div class="container relative">
+                    
+                    <h2 class="section-title font-alt align-left mb-70 mb-sm-40">
+                        About Studio
+                    </h2>
+                    
+                </div>
+            </section>
+            <!-- End About Section -->
+			
+			### Hey There!
+			#### Welcome to my Github homepage!
+			I have 3 years of experience working with clients in education, manufacturing, IoT and analytics industry. My expertise is in Data Integration, Data Quality, Data Visualization and Machine Learning and I have helped some the globally largest firms build their data warehouse, improve data quality processes and implementing reliable and efficient middle-ware.
 
-I am still (or consider myself) a Data Science beginner and intends to keep this page updated with my new adventures on Kaggle!
+			I am enthusiastic about solving some of the most pressing problems of society by leveraging Machine learning and AI. Connect with me if you want to collaborate on any such projects.
 
-View my resume or LinkedIn profile to know more about me
+			I am still (or consider myself) a Data Science beginner and intends to keep this page updated with my new adventures on Kaggle!
 
-<br>
-### Projects
-*  _coming soon_
+			View my resume or LinkedIn profile to know more about me
+
+			<br>
+			### Projects
+			*  _coming soon_
+            
+            <!-- Divider -->
+            <hr class="mt-0 mb-0 ">
+            <!-- End Divider -->
+        
+        
+        </div>
+        <!-- End Page Wrap -->
+        
+        
+        <!-- JS
+		
+		-->
+        <script type="text/javascript" src="lander_page/jquery-1.js"></script>
+        <script type="text/javascript" src="lander_page/jquery_004.js"></script>
+        <script type="text/javascript" src="lander_page/bootstrap.js"></script>
+        <script type="text/javascript" src="lander_page/SmoothScroll.js"></script>        
+		<script type="text/javascript" src="lander_page/jquery_011.js"></script>
+        <script type="text/javascript" src="lander_page/jquery_009.js"></script>
+        <script type="text/javascript" src="lander_page/jquery_006.js"></script>
+        <script type="text/javascript" src="lander_page/jquery.js"></script>
+        <script type="text/javascript" src="lander_page/jquery_007.js"></script>
+        <script type="text/javascript" src="lander_page/jquery_008.js"></script>
+        <script type="text/javascript" src="lander_page/jquery_005.js"></script>
+        <script type="text/javascript" src="lander_page/jquery_012.js"></script>
+        <script type="text/javascript" src="lander_page/owl.js"></script>
+        <script type="text/javascript" src="lander_page/isotope.js"></script>
+        <script type="text/javascript" src="lander_page/imagesloaded.js"></script>
+        <script type="text/javascript" src="lander_page/jquery_002.js"></script>
+        <script type="text/javascript" src="lander_page/wow.js"></script>
+        <script type="text/javascript" src="lander_page/masonry.js"></script>
+        <script type="text/javascript" src="lander_page/jquery_010.js"></script>
+        <script type="text/javascript" src="lander_page/all.js"></script>
+        <!--<script type="text/javascript" src="lander_page/contact-form.js"></script>-->
+        <script type="text/javascript" src="lander_page/jquery_003.js"></script>
+        
+		<!--[if lt IE 10]><script type="text/javascript" src="js/placeholder.js"></script><![endif]
+        
+		-->
+
+</body></html>
