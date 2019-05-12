@@ -2971,7 +2971,11 @@ a.logo:hover{
     overflow: hidden;
 }
 .team-item-image img{
-    width: 100%;
+    width: 80%;
+	display: block;
+	margin: auto;
+	border-radius: 50%;
+	border: 1px solid #000;
 }
 .team-item-image:after{
     content: " ";
