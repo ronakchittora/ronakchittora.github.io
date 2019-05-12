@@ -1209,7 +1209,7 @@ a.bg-video-button-muted{
     color: #000;
     opacity: .9;
 	-webkit-animation: fadein 5s;
-	line-height: 0.0;
+	line-height: 1.0;
 }
 	
 @-webkit-keyframes fadein {
@@ -1231,7 +1231,7 @@ a.bg-video-button-muted{
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 0.085em;
-    line-height: 0.0;
+    line-height: 1.0;
     #color: rgba(255,255,255, .85);
 	color: #000;
 	
