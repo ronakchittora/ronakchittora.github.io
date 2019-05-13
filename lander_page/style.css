@@ -2971,12 +2971,23 @@ a.logo:hover{
     overflow: hidden;
 }
 .team-item-image img{
+    width: 80%;
+	display: block;
+	margin: auto;
+}
+
+.team-item-image1{
+    position: relative;
+    overflow: hidden;
+}
+.team-item-image1 img{
     width: 60%;
 	display: block;
 	margin: auto;
 	border-radius: 50%;
 	border: 1px solid #000;
 }
+
 .team-item-image:after{
     content: " ";
     display: block;
